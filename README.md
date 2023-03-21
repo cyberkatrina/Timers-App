@@ -1,7 +1,7 @@
 # Timers-App
 An app that has multiple timers (Swift/iOS).
 
-The app runs best with Xcode 13.0 and iOS version 15.5
+To run the app, download Timers-App.zip and open the Xcode project. The app runs best with Xcode 13.0 and iOS version 15.5
 
 This app uses Multi-threading by running the timers on a different queue from the labels changing on the screen (prioritizing the UI interface).
 
